@@ -29,4 +29,4 @@ Report bugs.
 Share your feedback.
 
 <h3>💬 Let's Connect!</h3>
-Feel free to connect with me on LinkedIn
+Feel free to connect with me on LinkedIn <a href="https://linkedin.com/in/venkataramanakb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkataramanakb" height="30" width="40" /></a>
